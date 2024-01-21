@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\bin\Debug\netcoreapp3.1\BranchingCSharp.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\bin\Debug\netcoreapp3.1\BranchingCSharp.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\bin\Debug\netcoreapp3.1\BranchingCSharp.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\bin\Debug\netcoreapp3.1\BranchingCSharp.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\bin\Debug\netcoreapp3.1\BranchingCSharp.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\bin\Debug\netcoreapp3.1\BranchingCSharp.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\obj\Debug\netcoreapp3.1\BranchingCSharp.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\obj\Debug\netcoreapp3.1\BranchingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\obj\Debug\netcoreapp3.1\BranchingCSharp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\obj\Debug\netcoreapp3.1\BranchingCSharp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\obj\Debug\netcoreapp3.1\BranchingCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\obj\Debug\netcoreapp3.1\BranchingCSharp.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\obj\Debug\netcoreapp3.1\BranchingCSharp.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BranchingCSharp\BranchingCSharp\obj\Debug\netcoreapp3.1\BranchingCSharp.genruntimeconfig.cache
