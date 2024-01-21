@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\bin\Debug\netcoreapp3.1\DailyReportTheTechAcademy.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\bin\Debug\netcoreapp3.1\DailyReportTheTechAcademy.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\bin\Debug\netcoreapp3.1\DailyReportTheTechAcademy.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\bin\Debug\netcoreapp3.1\DailyReportTheTechAcademy.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\bin\Debug\netcoreapp3.1\DailyReportTheTechAcademy.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\bin\Debug\netcoreapp3.1\DailyReportTheTechAcademy.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\obj\Debug\netcoreapp3.1\DailyReportTheTechAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\obj\Debug\netcoreapp3.1\DailyReportTheTechAcademy.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\obj\Debug\netcoreapp3.1\DailyReportTheTechAcademy.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\obj\Debug\netcoreapp3.1\DailyReportTheTechAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\obj\Debug\netcoreapp3.1\DailyReportTheTechAcademy.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\obj\Debug\netcoreapp3.1\DailyReportTheTechAcademy.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\DailyReportTheTechAcademy\obj\Debug\netcoreapp3.1\DailyReportTheTechAcademy.genruntimeconfig.cache
