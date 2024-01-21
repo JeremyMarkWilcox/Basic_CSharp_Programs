@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\bin\Debug\netcoreapp3.1\MathExercises.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\bin\Debug\netcoreapp3.1\MathExercises.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\bin\Debug\netcoreapp3.1\MathExercises.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\bin\Debug\netcoreapp3.1\MathExercises.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\bin\Debug\netcoreapp3.1\MathExercises.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\bin\Debug\netcoreapp3.1\MathExercises.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\obj\Debug\netcoreapp3.1\MathExercises.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\obj\Debug\netcoreapp3.1\MathExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\obj\Debug\netcoreapp3.1\MathExercises.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\obj\Debug\netcoreapp3.1\MathExercises.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\obj\Debug\netcoreapp3.1\MathExercises.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\obj\Debug\netcoreapp3.1\MathExercises.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\obj\Debug\netcoreapp3.1\MathExercises.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MathExercises\MathExercises\obj\Debug\netcoreapp3.1\MathExercises.genruntimeconfig.cache
