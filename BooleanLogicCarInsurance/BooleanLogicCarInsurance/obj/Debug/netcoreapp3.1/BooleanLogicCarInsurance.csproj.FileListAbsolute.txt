@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\bin\Debug\netcoreapp3.1\BooleanLogicCarInsurance.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\bin\Debug\netcoreapp3.1\BooleanLogicCarInsurance.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\bin\Debug\netcoreapp3.1\BooleanLogicCarInsurance.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\bin\Debug\netcoreapp3.1\BooleanLogicCarInsurance.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\bin\Debug\netcoreapp3.1\BooleanLogicCarInsurance.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\bin\Debug\netcoreapp3.1\BooleanLogicCarInsurance.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\obj\Debug\netcoreapp3.1\BooleanLogicCarInsurance.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\obj\Debug\netcoreapp3.1\BooleanLogicCarInsurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\obj\Debug\netcoreapp3.1\BooleanLogicCarInsurance.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\obj\Debug\netcoreapp3.1\BooleanLogicCarInsurance.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\obj\Debug\netcoreapp3.1\BooleanLogicCarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\obj\Debug\netcoreapp3.1\BooleanLogicCarInsurance.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\obj\Debug\netcoreapp3.1\BooleanLogicCarInsurance.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicCarInsurance\BooleanLogicCarInsurance\obj\Debug\netcoreapp3.1\BooleanLogicCarInsurance.genruntimeconfig.cache
