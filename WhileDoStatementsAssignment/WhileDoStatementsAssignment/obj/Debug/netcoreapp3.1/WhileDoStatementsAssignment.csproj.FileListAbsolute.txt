@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\bin\Debug\netcoreapp3.1\WhileDoStatementsAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\bin\Debug\netcoreapp3.1\WhileDoStatementsAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\bin\Debug\netcoreapp3.1\WhileDoStatementsAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\bin\Debug\netcoreapp3.1\WhileDoStatementsAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\bin\Debug\netcoreapp3.1\WhileDoStatementsAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\bin\Debug\netcoreapp3.1\WhileDoStatementsAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\obj\Debug\netcoreapp3.1\WhileDoStatementsAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\obj\Debug\netcoreapp3.1\WhileDoStatementsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\obj\Debug\netcoreapp3.1\WhileDoStatementsAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\obj\Debug\netcoreapp3.1\WhileDoStatementsAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\obj\Debug\netcoreapp3.1\WhileDoStatementsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\obj\Debug\netcoreapp3.1\WhileDoStatementsAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\obj\Debug\netcoreapp3.1\WhileDoStatementsAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\WhileDoStatementsAssignment\WhileDoStatementsAssignment\obj\Debug\netcoreapp3.1\WhileDoStatementsAssignment.genruntimeconfig.cache

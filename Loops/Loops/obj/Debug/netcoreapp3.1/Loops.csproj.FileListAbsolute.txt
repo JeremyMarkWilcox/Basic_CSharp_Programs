@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
