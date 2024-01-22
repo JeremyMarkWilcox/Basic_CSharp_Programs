@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\netcoreapp3.1\ArraysAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\netcoreapp3.1\ArraysAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\netcoreapp3.1\ArraysAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\netcoreapp3.1\ArraysAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\netcoreapp3.1\ArraysAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\bin\Debug\netcoreapp3.1\ArraysAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.1\ArraysAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.1\ArraysAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.1\ArraysAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.1\ArraysAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.1\ArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.1\ArraysAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.1\ArraysAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.1\ArraysAssignment.genruntimeconfig.cache

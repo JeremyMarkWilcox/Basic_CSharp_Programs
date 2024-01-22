@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\bin\Debug\netcoreapp3.1\ArraysandLists.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysandLists\ArraysandLists\obj\Debug\netcoreapp3.1\ArraysandLists.genruntimeconfig.cache
