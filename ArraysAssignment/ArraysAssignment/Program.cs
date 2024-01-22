@@ -13,8 +13,6 @@ class Program
         int[] intArray = { 10, 20, 30, 40, 50 };
         DisplayArrayElement(intArray, "integers");
 
-       
-
         // Task 4
         List<string> stringList = new List<string> { "Red", "Green", "Blue", "Yellow" };
         DisplayListElement(stringList, "colors");
