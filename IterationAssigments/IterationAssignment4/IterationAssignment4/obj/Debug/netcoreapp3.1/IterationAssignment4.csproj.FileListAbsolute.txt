@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\bin\Debug\netcoreapp3.1\IterationAssignment4.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\bin\Debug\netcoreapp3.1\IterationAssignment4.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\bin\Debug\netcoreapp3.1\IterationAssignment4.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\bin\Debug\netcoreapp3.1\IterationAssignment4.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\bin\Debug\netcoreapp3.1\IterationAssignment4.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\bin\Debug\netcoreapp3.1\IterationAssignment4.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\obj\Debug\netcoreapp3.1\IterationAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\obj\Debug\netcoreapp3.1\IterationAssignment4.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\obj\Debug\netcoreapp3.1\IterationAssignment4.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\obj\Debug\netcoreapp3.1\IterationAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\obj\Debug\netcoreapp3.1\IterationAssignment4.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\obj\Debug\netcoreapp3.1\IterationAssignment4.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\IterationAssigments\IterationAssignment4\IterationAssignment4\obj\Debug\netcoreapp3.1\IterationAssignment4.genruntimeconfig.cache
