@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassExerciseManipulate/1.0.0": {
+        "runtime": {
+          "ClassExerciseManipulate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassExerciseManipulate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

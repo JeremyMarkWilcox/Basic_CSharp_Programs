@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\bin\Debug\netcoreapp3.1\ClassExerciseManipulate.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\bin\Debug\netcoreapp3.1\ClassExerciseManipulate.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\bin\Debug\netcoreapp3.1\ClassExerciseManipulate.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\bin\Debug\netcoreapp3.1\ClassExerciseManipulate.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\bin\Debug\netcoreapp3.1\ClassExerciseManipulate.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\bin\Debug\netcoreapp3.1\ClassExerciseManipulate.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\obj\Debug\netcoreapp3.1\ClassExerciseManipulate.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\obj\Debug\netcoreapp3.1\ClassExerciseManipulate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\obj\Debug\netcoreapp3.1\ClassExerciseManipulate.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\obj\Debug\netcoreapp3.1\ClassExerciseManipulate.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\obj\Debug\netcoreapp3.1\ClassExerciseManipulate.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\obj\Debug\netcoreapp3.1\ClassExerciseManipulate.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\obj\Debug\netcoreapp3.1\ClassExerciseManipulate.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ClassExerciseManipulate\ClassExerciseManipulate\obj\Debug\netcoreapp3.1\ClassExerciseManipulate.genruntimeconfig.cache

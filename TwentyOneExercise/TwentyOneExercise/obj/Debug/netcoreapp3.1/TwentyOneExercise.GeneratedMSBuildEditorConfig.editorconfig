@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = TwentyOneExercise
 build_property.ProjectDir = C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
