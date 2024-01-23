@@ -25,7 +25,7 @@ namespace ClassExerciseManipulate
             return input / 2;
         }
 
-        // Declare a class to be static
+        
         public static void StaticMethod()
         {
             Console.WriteLine("This is a static method.");
