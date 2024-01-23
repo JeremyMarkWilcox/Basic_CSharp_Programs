@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsObjectsAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsObjectsAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsObjectsAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsObjectsAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsObjectsAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\bin\Debug\netcoreapp3.1\MethodsObjectsAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsObjectsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsObjectsAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsObjectsAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsObjectsAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsObjectsAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\MethodsObjectsAssignment\MethodsObjectsAssignment\obj\Debug\netcoreapp3.1\MethodsObjectsAssignment.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Desktop\\Basic_C#_Programs\\TwentyOneExercise\\TwentyOneExercise\\TwentyOneExercise.csproj",
-      "projectName": "TwentyOneExercise",
-      "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Basic_C#_Programs\\TwentyOneExercise\\TwentyOneExercise\\TwentyOneExercise.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodsObjectsAssignment\\MethodsObjectsAssignment\\MethodsObjectsAssignment.csproj",
+      "projectName": "MethodsObjectsAssignment",
+      "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodsObjectsAssignment\\MethodsObjectsAssignment\\MethodsObjectsAssignment.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Basic_C#_Programs\\TwentyOneExercise\\TwentyOneExercise\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Basic_C#_Programs\\MethodsObjectsAssignment\\MethodsObjectsAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
