@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\OperatorOverloadAssignment\OperatorOverloadAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadAssignment.genruntimeconfig.cache
