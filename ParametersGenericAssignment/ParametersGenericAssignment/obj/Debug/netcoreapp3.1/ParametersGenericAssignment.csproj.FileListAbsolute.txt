@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\bin\Debug\netcoreapp3.1\ParametersGenericAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\bin\Debug\netcoreapp3.1\ParametersGenericAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\bin\Debug\netcoreapp3.1\ParametersGenericAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\bin\Debug\netcoreapp3.1\ParametersGenericAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\bin\Debug\netcoreapp3.1\ParametersGenericAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\bin\Debug\netcoreapp3.1\ParametersGenericAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\obj\Debug\netcoreapp3.1\ParametersGenericAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\obj\Debug\netcoreapp3.1\ParametersGenericAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\obj\Debug\netcoreapp3.1\ParametersGenericAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\obj\Debug\netcoreapp3.1\ParametersGenericAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\obj\Debug\netcoreapp3.1\ParametersGenericAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\obj\Debug\netcoreapp3.1\ParametersGenericAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParametersGenericAssignment\ParametersGenericAssignment\obj\Debug\netcoreapp3.1\ParametersGenericAssignment.genruntimeconfig.cache
