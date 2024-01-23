@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\bin\Debug\netcoreapp3.1\StructureAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\bin\Debug\netcoreapp3.1\StructureAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\bin\Debug\netcoreapp3.1\StructureAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\bin\Debug\netcoreapp3.1\StructureAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\bin\Debug\netcoreapp3.1\StructureAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\bin\Debug\netcoreapp3.1\StructureAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\obj\Debug\netcoreapp3.1\StructureAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\obj\Debug\netcoreapp3.1\StructureAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\obj\Debug\netcoreapp3.1\StructureAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\obj\Debug\netcoreapp3.1\StructureAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\obj\Debug\netcoreapp3.1\StructureAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\obj\Debug\netcoreapp3.1\StructureAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\obj\Debug\netcoreapp3.1\StructureAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\StructureAssignment\StructureAssignment\obj\Debug\netcoreapp3.1\StructureAssignment.genruntimeconfig.cache
