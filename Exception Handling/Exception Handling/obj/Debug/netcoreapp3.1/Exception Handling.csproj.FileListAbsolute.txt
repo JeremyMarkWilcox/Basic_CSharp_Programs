@@ -11,3 +11,4 @@ C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Exception Handling\Exception H
 C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Exception Handling\Exception Handling\obj\Debug\netcoreapp3.1\Exception Handling.dll
 C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Exception Handling\Exception Handling\obj\Debug\netcoreapp3.1\Exception Handling.pdb
 C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Exception Handling\Exception Handling\obj\Debug\netcoreapp3.1\Exception Handling.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\Exception Handling\Exception Handling\obj\Debug\netcoreapp3.1\Exception Handling.csproj.AssemblyReference.cache

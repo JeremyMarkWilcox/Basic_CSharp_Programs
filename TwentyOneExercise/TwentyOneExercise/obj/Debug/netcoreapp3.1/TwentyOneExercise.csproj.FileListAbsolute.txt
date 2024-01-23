@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\bin\Debug\netcoreapp3.1\TwentyOneExercise.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\bin\Debug\netcoreapp3.1\TwentyOneExercise.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\bin\Debug\netcoreapp3.1\TwentyOneExercise.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\bin\Debug\netcoreapp3.1\TwentyOneExercise.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\bin\Debug\netcoreapp3.1\TwentyOneExercise.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\bin\Debug\netcoreapp3.1\TwentyOneExercise.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\obj\Debug\netcoreapp3.1\TwentyOneExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\obj\Debug\netcoreapp3.1\TwentyOneExercise.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\obj\Debug\netcoreapp3.1\TwentyOneExercise.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\obj\Debug\netcoreapp3.1\TwentyOneExercise.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\obj\Debug\netcoreapp3.1\TwentyOneExercise.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\obj\Debug\netcoreapp3.1\TwentyOneExercise.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\TwentyOneExercise\TwentyOneExercise\obj\Debug\netcoreapp3.1\TwentyOneExercise.genruntimeconfig.cache
