@@ -17,15 +17,7 @@ namespace OptionalMethodAssignment
             string secondNumberInput = Console.ReadLine();
 
             // Parse the second number if provided, otherwise use the default value (10)
-            int secondNumber;
-            if (string.IsNullOrEmpty(secondNumberInput))
-            {
-                secondNumber = 10;
-            }
-            else
-            {
-                secondNumber = int.Parse(secondNumberInput);
-            }
+            int? secondNumber = string.IsNullOrEmpty(secondNumberInput) ? (int?)null : int.Parse(secondNumberInput);
 
             // Call the method with one or two numbers entered
             int result = mathOperations.PerformMathOperation(firstNumber, secondNumber);
