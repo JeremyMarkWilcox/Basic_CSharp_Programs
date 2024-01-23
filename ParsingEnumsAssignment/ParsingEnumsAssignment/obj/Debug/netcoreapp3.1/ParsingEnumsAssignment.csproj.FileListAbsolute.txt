@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\netcoreapp3.1\ParsingEnumsAssignment.genruntimeconfig.cache

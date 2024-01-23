@@ -20,6 +20,6 @@ namespace TwentyOneExercise
             }
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
-        }          
+        }       
     }
 }
