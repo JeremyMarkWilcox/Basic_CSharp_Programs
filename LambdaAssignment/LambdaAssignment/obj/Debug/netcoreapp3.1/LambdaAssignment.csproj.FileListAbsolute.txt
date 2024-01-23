@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.genruntimeconfig.cache
