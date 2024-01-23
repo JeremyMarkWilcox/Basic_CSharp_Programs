@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\bin\Debug\netcoreapp3.1\AbstractAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\bin\Debug\netcoreapp3.1\AbstractAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\bin\Debug\netcoreapp3.1\AbstractAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\bin\Debug\netcoreapp3.1\AbstractAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\bin\Debug\netcoreapp3.1\AbstractAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\bin\Debug\netcoreapp3.1\AbstractAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\obj\Debug\netcoreapp3.1\AbstractAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\obj\Debug\netcoreapp3.1\AbstractAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\obj\Debug\netcoreapp3.1\AbstractAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\obj\Debug\netcoreapp3.1\AbstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\obj\Debug\netcoreapp3.1\AbstractAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\obj\Debug\netcoreapp3.1\AbstractAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\AbstractAssignment\AbstractAssignment\obj\Debug\netcoreapp3.1\AbstractAssignment.genruntimeconfig.cache
