@@ -8,6 +8,8 @@ In this project I covered a large number of aspects of C#. Enough to create a fu
 
 * Fixed a bug where the user was prompted to retype an amount that the user actually possessed. Previously it printed it 3 times.
 
+* Fixed player's cards being displayed twice in a row. (I hated that bug it was annoying haha)
+
 * Fixed spacing in the display some
 
  
