@@ -1,0 +1,14 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\bin\Debug\netcoreapp3.1\DateTImeAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\bin\Debug\netcoreapp3.1\DateTImeAssignment.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\bin\Debug\netcoreapp3.1\DateTImeAssignment.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\bin\Debug\netcoreapp3.1\DateTImeAssignment.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\bin\Debug\netcoreapp3.1\DateTImeAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\bin\Debug\netcoreapp3.1\DateTImeAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\obj\Debug\netcoreapp3.1\DateTImeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\obj\Debug\netcoreapp3.1\DateTImeAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\obj\Debug\netcoreapp3.1\DateTImeAssignment.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\obj\Debug\netcoreapp3.1\DateTImeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\obj\Debug\netcoreapp3.1\DateTImeAssignment.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\obj\Debug\netcoreapp3.1\DateTImeAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\obj\Debug\netcoreapp3.1\DateTImeAssignment.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\DateTImeAssignment\DateTImeAssignment\obj\Debug\netcoreapp3.1\DateTImeAssignment.csproj.AssemblyReference.cache
