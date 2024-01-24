@@ -10,6 +10,8 @@ In this project I covered a large number of aspects of C#. Enough to create a fu
 
 * Fixed player's cards being displayed twice in a row. (I hated that bug it was annoying haha)
 
+* Added displaying the player's balance amount when being prompted to reenter an amount because they entered too much with their current balance.
+
 * Fixed spacing in the display some
 
  
