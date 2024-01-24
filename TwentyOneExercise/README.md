@@ -12,6 +12,8 @@ In this project I covered a large number of aspects of C#. Enough to create a fu
 
 * Added displaying the player's balance amount when being prompted to reenter an amount because they entered too much with their current balance.
 
+* Fixed the looping, the program would end even if the user requested to continue.
+
 * Fixed spacing in the display some
 
  
